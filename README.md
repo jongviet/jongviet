@@ -4,5 +4,7 @@
 *Skills : Java, Javascript(ES5), HTML5, CSS3.  
 *Tools : Eclipse, VS code, IntelliJ, Android Studio.  
 
+<ul>
 *⚡Aside from programming, I am into drone delivery, Vietnam domestic market and US stock investment.  
 *📫You can reach me at jongki6161@gmail.com.  
+</ul>
