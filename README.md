@@ -6,5 +6,5 @@
 
 
 - Aside from programming, I am into drone delivery, Vietnam domestic market and US stock investment.  
-- 📫If you want to know more about me, email me at jongki6161@gmail.com.
+- 📫If you want to know more about me, reach me at jongki6161@gmail.com.
 
