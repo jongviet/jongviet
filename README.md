@@ -7,5 +7,5 @@
 - Aside from programming, I am into drone delivery, Vietnam domestic market and US stock investment.  
 - 📫If you wanna know more about me, reach me at jongki6161@gmail.com.
 
-**- new git : slogup.ki@gmail.com
-**
+****- new git : slogup.ki@gmail.com
+
