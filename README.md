@@ -1,1 +1,1 @@
-- I jumped into this field on Dec 2020 to broaden my perspectives & challenge myself.
+- I jumped into this field in Dec 2020 to broaden my perspectives & challenge myself.
